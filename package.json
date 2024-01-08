@@ -1,5 +1,5 @@
 {
-  "name": "processamento-async-com-redis",
+  "name": "processamento-async-com-node-redis",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
